@@ -6,7 +6,6 @@
     - e-mail: guibarbettaele@gmail.com 
     - Instagram: @guiibarbetta 
     - linkedin: https://www.linkedin.com/in/guilhermebarbetta/
-    - OSI::GBE:{{protocol}}
 <!---
 GuiiBarbetta/GuiiBarbetta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
